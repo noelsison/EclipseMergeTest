@@ -1,2 +1,5 @@
 EclipseMergeTest
+asd1
+asd2
+asd3
 ================
