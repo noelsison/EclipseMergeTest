@@ -1,5 +1,5 @@
 EclipseMergeTest
-asd1
+asd3
 asd2
 asd3
-================
+=======
